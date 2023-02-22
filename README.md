@@ -1,2 +1,2 @@
 # BinderTest3
-Testing Binder vs Collab 
+Testing Binder vs Colab 
